@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863769843994",
+    "project_id": "calories-fix",
+    "storage_bucket": "calories-fix.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863769843994:android:eddca8232fdd70b0dd34a3",
+        "android_client_info": {
+          "package_name": "com.example.calories_fix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz8UXSzKRzyuKmstS2eWhprBKtut07Ltw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
